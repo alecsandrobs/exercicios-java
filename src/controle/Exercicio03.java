@@ -1,4 +1,4 @@
-package estruturasControle;
+package controle;
 
 import java.text.DecimalFormat;
 

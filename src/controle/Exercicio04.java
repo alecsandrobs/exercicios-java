@@ -1,4 +1,4 @@
-package estruturasControle;
+package controle;
 
 public class Exercicio04 {
     public static void ehNumeroPrimo(int numero) {

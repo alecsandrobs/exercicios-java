@@ -1,4 +1,4 @@
-package estruturasControle;
+package controle;
 
 public class Exercicio01 {
 
