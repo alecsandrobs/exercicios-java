@@ -1,4 +1,4 @@
-package arrays;
+package colecoes;
 
 import java.util.Scanner;
 
@@ -22,7 +22,7 @@ public class DesafioArraysNotas {
             total += notas[i];
         }
 
-        System.out.println(String.format("A média do aluno %s é: %f", nome, total / notas.length));
+        System.out.println(String.format("A média do aluno %s é: %.2f", nome, total / notas.length));
 
         entrada.close();
     }
